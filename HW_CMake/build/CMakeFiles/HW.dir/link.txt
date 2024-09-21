@@ -1,0 +1,2 @@
+/usr/bin/ar qc libHW.a CMakeFiles/HW.dir/src/HW.c.o
+/usr/bin/ranlib libHW.a
